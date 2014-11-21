@@ -26,7 +26,7 @@
     <color name="spacebar_text_color_holo">#ff3B77E7</color>
     <color name="spacebar_text_shadow_color_holo">#803B77E7</color>
     <color name="gesture_floating_preview_color_holo">#c03B77E7</color>
-    <color name="highlight_color_klp">#ffffffff</color>
+    <color name="highlight_color_klp">#ff3B77E7</color>
     <color name="typed_word_color_klp">#d83B77E7</color>
     <color name="suggested_word_color_klp">#b23B77E7</color>
     <color name="highlight_translucent_color_klp">#99ffffff</color>
